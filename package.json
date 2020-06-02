@@ -1,0 +1,19 @@
+{
+  "name": "denoapp",
+  "version": "1.0.0",
+  "description": "Deno Express(Opine)",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "deno run --allow-net ./server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enginguven/DenoSimpleExpressApp.git"
+  },
+  "author": "Engin Güven",
+  "bugs": {
+    "url": "https://github.com/enginguven/DenoSimpleExpressApp/issues"
+  },
+  "homepage": "https://github.com/enginguven/DenoSimpleExpressApp#readme"
+}
